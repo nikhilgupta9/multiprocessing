@@ -8,5 +8,5 @@
  To convert .jp2 images into .PNG format using multiprocessing and compare the performance
 
 ### Results
- Without multiprocessing - 812 seconds   
- With multiprocessing (8 processes) - 513 seconds
+ Without multiprocessing - 300 seconds   
+ With multiprocessing (8 processes) - 72 seconds
