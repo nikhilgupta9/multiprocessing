@@ -7,6 +7,15 @@
 ### Objective
  To convert .jp2 images into .PNG format using multiprocessing and compare the performance
 
-### Results
+### Results 
+#### Linux
  Without multiprocessing - 300 seconds   
  With multiprocessing (8 processes) - 72 seconds
+
+ #### Windows
+ Without multiprocessing - 186 seconds   
+ With multiprocessing (8 processes) - 41 seconds  
+
+ **Not sure why Windows performed better. Still looking for answers**
+
+
